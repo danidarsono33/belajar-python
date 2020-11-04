@@ -1,2 +1,4 @@
 belajarpython
-#belajar-python
+# LATIHAN PYTHON PERTEMUAN KE 5-6
+
+
